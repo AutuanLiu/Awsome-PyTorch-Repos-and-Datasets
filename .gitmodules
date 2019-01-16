@@ -1,0 +1,6 @@
+[submodule "awesome-public-datasets"]
+	path = awesome-public-datasets
+	url = git@github.com:awesomedata/awesome-public-datasets.git
+[submodule "Awesome-pytorch-list"]
+	path = Awesome-pytorch-list
+	url = git@github.com:bharathgs/Awesome-pytorch-list.git
