@@ -65,6 +65,7 @@ Email: autuanliu@163.com
 7. [BERT-pytorch](https://github.com/codertimo/BERT-pytorch) Google AI 2018 BERT pytorch implementation.
 8. [CornerNet](https://github.com/princeton-vl/CornerNet)
 9. [pnn.pytorch](https://github.com/juefeix/pnn.pytorch) PyTorch implementation of CVPR'18 - Perturbative Neural Networks http://xujuefei.com/pnn.html.
+10. [loss-landscape](https://github.com/tomgoldstein/loss-landscape) Code for visualizing the loss landscape of neural nets.
 
 ### Course
 
