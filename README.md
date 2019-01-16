@@ -16,7 +16,7 @@ Email: autuanliu@163.com
     - [Course](#course)
     - [Others](#others)
   - [Datasets](#datasets)
-    - [Computer Version](#computer-version)
+    - [Computer Vision](#computer-vision)
     - [Medical](#medical)
 
 ## PyTorch Repository
@@ -79,7 +79,7 @@ Email: autuanliu@163.com
 
 ## Datasets
 
-### Computer Version
+### Computer Vision
 
 1. [tencent-ml-images](https://github.com/Tencent/tencent-ml-images#) Largest multi-label image database.
 
